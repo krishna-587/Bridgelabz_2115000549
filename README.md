@@ -4,4 +4,5 @@
 21 Jan 2025 --> Topics covered are Java Compiler vs Interpreter, JVM, JRE and JDK, High Level vs Low Level Programming Languages.<br>
 22 Jan 2025 --> Completed Assignment 2.<br>
 23 Jan 2025 --> Completed Assignment 3.<br>
-25 Jan 2025 --> Completed Assignment 4.
+25 Jan 2025 --> Completed Assignment 4.<br>
+28 Jan 2025 --> Completed Assignment 5.

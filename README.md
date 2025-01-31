@@ -6,4 +6,5 @@
 23 Jan 2025 --> Completed Assignment 3.<br>
 25 Jan 2025 --> Completed Assignment 4.<br>
 28 Jan 2025 --> Completed Assignment 5.<br>
-29 Jan 2025 --> Completed Assignment 6.
+29 Jan 2025 --> Completed Assignment 6.<br>
+31 Jan 2025 --> Completed Assignment 7
